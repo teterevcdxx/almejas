@@ -1,0 +1,10 @@
+.title p{
+    color:white;
+    background-color: #3F3F47;
+    font-size: 64px;
+    padding: 10px 10px 10px 10px;
+    font-weight: 600;
+}
+.title{
+    margin-top: 10px;
+}

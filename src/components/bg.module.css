@@ -1,0 +1,17 @@
+.bg{
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    overflow: hidden;
+}
+.bg img{
+    width: 120%;
+    height: 120%;
+    left: -5px;
+    top: -5px;
+    position: absolute;
+    filter: blur(5px);
+}

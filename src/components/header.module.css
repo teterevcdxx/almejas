@@ -1,0 +1,25 @@
+.header{
+    display: block;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    width: 100%;
+}
+.header a{
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    font-size: 18px;
+    margin-left: 10px;
+    transition: 0.2s linear;
+    margin-top: 10px;
+}
+.header a:hover{
+    color:#47B7CF;
+}
+.nav{
+    display: flex;
+
+}
